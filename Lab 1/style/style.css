@@ -1,0 +1,11 @@
+body {
+    background: url('https://images.unsplash.com/photo-1605913246699-a4fb20aab594?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80');
+}
+
+.navbar-brand {
+    margin: 0px 0px 0px 20px;
+}
+
+#paragraph {
+    color: white;
+}
