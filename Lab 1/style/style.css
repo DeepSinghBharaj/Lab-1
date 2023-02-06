@@ -8,4 +8,48 @@ body {
 
 #paragraph {
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+#div-index {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#div-services,
+#div-about {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+#div-services h2 {
+    font-size: 18px;
+    padding: 0px 35px 0px 35px;
+}
+
+#div-services ol {
+    padding: 0px 35px 0px 55px;
+}
+
+#div-about p {
+    text-align: justify;
+    padding: 10px 35px 0px 35px;
+}
+
+#paragraph p {
+    text-align: justify;
+    padding: 10px 35px 0px 35px;
+}
+
+#div-about img {
+    padding: 10px 35px 0px 35px;
+    margin: 0px 0px 0px 155px;
+}
+
+#paragraph img {
+    padding: 10px 35px 0px 35px;
+    margin: 0px 0px 0px 155px;
 }
